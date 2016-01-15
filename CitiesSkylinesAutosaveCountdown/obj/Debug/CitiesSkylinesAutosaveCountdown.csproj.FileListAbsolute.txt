@@ -1,0 +1,12 @@
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\obj\Debug\CitiesSkylinesAutosaveCountdown.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\CitiesSkylinesAutosaveCountdown.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\CitiesSkylinesAutosaveCountdown.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\Assembly-CSharp.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\ColossalManaged.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\ICities.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\UnityEngine.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\bin\Debug\UnityEngine.xml
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\obj\Debug\CitiesSkylinesAutosaveCountdown.dll
+c:\users\johnny\documents\visual studio 2015\Projects\CitiesSkylinesAutosaveCountdown\CitiesSkylinesAutosaveCountdown\obj\Debug\CitiesSkylinesAutosaveCountdown.pdb
